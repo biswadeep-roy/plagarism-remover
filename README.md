@@ -5,7 +5,7 @@ Plagiarism Remover is a powerful React-based tool designed to help users paraphr
 
 ## Demo
 
-Check out a live demo of the Plagiarism Remover tool [here](https://your-live-demo-url.com).
+Check out a live demo of the Plagiarism Remover tool [here](https://plagarism-remover.vercel.app/).
 
 ## Features
 
@@ -38,7 +38,7 @@ Check out a live demo of the Plagiarism Remover tool [here](https://your-live-de
 5. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Open [http://localhost:3000](http://localhost:3000) to view the application.
