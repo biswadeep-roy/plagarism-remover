@@ -41,7 +41,7 @@ Check out a live demo of the Plagiarism Remover tool [here](https://plagarism-re
    npm run dev
    ```
 
-   Open [http://localhost:3000](http://localhost:5173) to view the application.
+   Open [http://localhost:5173](http://localhost:5173) to view the application.
 
 ## Usage
 
